@@ -1,0 +1,2 @@
+http://docs.microsoft.com/en-us/windows/wsl/install-win10
+http://www.w3schools.com/
